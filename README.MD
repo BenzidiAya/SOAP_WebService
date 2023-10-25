@@ -28,6 +28,5 @@
 <img src="Images/soapCovert.png"><br>
 <img src="Images/soapGetCompte.png"><br>
 <img src="Images/soapListCompte.png"><br>
-<b>5.Create a Java SOAP Client</b><br>
-<b>6.Deploy the Web Service in a Spring Boot Project</b><br>
+<b>5.Create a Java SOAP Client and deploy the Web Service in a Spring Boot Project</b><br>
 <img src="Images/soap3.png">
