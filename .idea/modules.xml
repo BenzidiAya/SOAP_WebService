@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientWS/ClientWS.iml" filepath="$PROJECT_DIR$/ClientWS/ClientWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Saop_WS.iml" filepath="$PROJECT_DIR$/.idea/Saop_WS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soap/Soap1.iml" filepath="$PROJECT_DIR$/Soap/Soap1.iml" />
+    </modules>
+  </component>
+</project>
